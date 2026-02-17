@@ -31,7 +31,7 @@
         "@arkecosystem/utils": "^0.3.0",
         "@hapi/boom": "^8.0.0",
         "@hapi/joi": "^15.1.0",
-        "ajv": "^6.10.2",
+        "ajv": "^8.18.0",
         "dayjs": "^1.8.15",
         "hapi-rate-limit": "^4.0.0",
         "ip": "^1.1.5",
