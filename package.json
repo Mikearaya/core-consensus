@@ -91,7 +91,7 @@
         "tslint-config-prettier": "^1.18.0",
         "typescript": "^3.7.2",
         "typesync": "^0.6.1",
-        "uuid": "^3.3.3"
+        "uuid": "^14.0.0"
     },
     "workspaces": [
         "packages/*",
